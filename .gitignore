@@ -159,6 +159,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 
 .idea/
+
 media/
 media
 notebook/jobs_data/
@@ -166,5 +167,8 @@ notebook/jobs_data
 notebook/data_fst/
 notebook/data_fst
 
-notebook/train.txt
-notebook/test.txt
+notebook/
+notebook
+
+local
+local/
